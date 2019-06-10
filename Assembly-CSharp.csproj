@@ -55,7 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\FollowCamera.cs" />
      <Compile Include="Assets\Scripts\Mover.cs" />
-     <None Include="Assets\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
+     <None Include="Assets\Asset Packs\Synty - Polygon Student Sample\README - Usage Rights for these assets.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/RyanChishti/Documents/Afzal/Personal/Personal Projects/Game Dev/RPG/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
